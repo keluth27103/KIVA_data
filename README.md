@@ -1,7 +1,8 @@
 # KIVA_data
-this project explores loan data by amount, country, activity, and gender
+an exploration of Kiva loan data by amount, country, activity funded, and gender of recipient 
 
-This project uses data on loan amounts from the KIVA organization.
+Data set:
+* 
 
 Parameters explored:
 * loan amount
